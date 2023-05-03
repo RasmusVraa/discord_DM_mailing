@@ -4,6 +4,7 @@
 - Настройте index.js 
 - Скачайте node.js
 - Скачайте discord.js
+
 Скачать node.js: https://nodejs.org/ru/download
 
 Скачать discord.js: npm install discord.js
